@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\travelApi.csproj": {}
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\TravelApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\travelApi.csproj": {
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\TravelApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\travelApi.csproj",
-        "projectName": "travelApi",
-        "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\travelApi.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\TravelApi.csproj",
+        "projectName": "TravelApi",
+        "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\TravelApi.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\travelApi\\obj\\",
         "projectStyle": "PackageReference",
@@ -50,11 +50,23 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.56.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
