@@ -63,7 +63,7 @@ dotnet run
 CREATE DATABASE `travel_api`;
 
 USE `travel_api`;
-w
+
 CREATE TABLE `locations` (
   `LocationId` int(11) NOT NULL AUTO_INCREMENT,
   `Rating` int(11) DEFAULT '0',
