@@ -1,9 +1,8 @@
  **Our First API**
 
 #### Author: **_Steven Ly, Matt Stroud, and Brevin Cronk_**
-#### June 2, 2020
+#### June 8, 2020
 
-<!-- ![Site Screenshot](./HairSalon/wwwroot/img/readmescreenshot.jpg) -->
 
 ### Description
 
